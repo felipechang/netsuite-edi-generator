@@ -1,0 +1,14 @@
+<customlist scriptid="customlist_hck_edi_map_group">
+  <description>Group key used to organize mappings</description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>EDI Group Key</name>
+  <customvalues>
+    <customvalue scriptid="val_56208296_5732788_sb1_688">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Default</value>
+    </customvalue>
+  </customvalues>
+</customlist>

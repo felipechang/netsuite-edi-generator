@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hck_edi_map_align">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>EDI Alignment</name>
+  <customvalues>
+    <customvalue scriptid="val_hck_edi_map_left">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>LEFT</value>
+    </customvalue>
+    <customvalue scriptid="val_hck_edi_map_right">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>RIGHT</value>
+    </customvalue>
+    <customvalue scriptid="val_hck_edi_map_center">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CENTER</value>
+    </customvalue>
+  </customvalues>
+</customlist>

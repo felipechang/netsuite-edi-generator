@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hck_edi_map">
+  <description>Suitelet receives a configuration object with values and returns EDI formatted text</description>
+  <isinactive>F</isinactive>
+  <name>EDI Generator</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Hardcake/EDI Generator/hck_edi_map_suitelet.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hck_edi_map">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>ERROR</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EDI Generator</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
