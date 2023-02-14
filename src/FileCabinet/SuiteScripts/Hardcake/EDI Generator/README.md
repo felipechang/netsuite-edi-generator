@@ -12,25 +12,25 @@ and fields mapped via the user interface in the customrecord_hck_edi_map record.
 Field mapping is done in the customrecord_hck_edi_map record.
 
 #### Customer Name
-![Customer Name]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/customerName.png?raw=true")
+![Customer Name](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/customerName.png?raw=true)
 
 #### Order Date
-![Order Date]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/orderDate.png?raw=true")
+![Order Date](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/orderDate.png?raw=true)
 
 #### Line Counter
-![Line Counter]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/counter.png?raw=true")
+![Line Counter](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/counter.png?raw=true)
 
 #### Line Item
-![Line Item]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/itemme.png?raw=true")
+![Line Item](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/itemme.png?raw=true)
 
 #### Line Quantity
-![Line Quantity]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/quantity.png?raw=true")
+![Line Quantity](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/quantity.png?raw=true)
 
 #### Line Price
-![Line Price]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/price.png?raw=true")
+![Line Price](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/price.png?raw=true)
 
 #### Total Amount
-![Total Amount]("https://github.com/felipechang/netsuite-edi-generator/blob/main/images/totalAmount.png?raw=true")
+![Total Amount](https://github.com/felipechang/netsuite-edi-generator/blob/main/images/totalAmount.png?raw=true)
 
 
 ### EDI template:
